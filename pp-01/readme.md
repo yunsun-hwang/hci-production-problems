@@ -5,9 +5,9 @@ Let’s start with something fun: a typeface-pairing game.
 1. Go to the TypeConnection game at http://www.typeconnection.com/. Play it until you arrive at
    three successful pairings. Record their URLs below:
 
-   1.
-   2.
-   3.
+   1.http://www.typeconnection.com/step5/eb.php
+   2.http://www.typeconnection.com/step5/kj.php
+   3.http://www.typeconnection.com/step5/xy.php
 
 2. Next, head over to https://fonts.google.com/ and develop a pairing of Google Fonts that
    parallels one of your successful pairings from the TypeConnection game. The typefaces you choose
@@ -24,11 +24,11 @@ Let’s start with something fun: a typeface-pairing game.
 3. Make a record of your paired typefaces here (Name and URL on Google Fonts):
 
    Typeface One:
-     - Name:
-     - URL:
+     - Name:Cardo
+     - URL:https://fonts.google.com/specimen/Cardo?query=cardo
    Typeface Two:
-     - Name:
-     - URL:
+     - Name:Libre Franklin
+     - URL:https://fonts.google.com/specimen/Libre+Franklin?query=libre
 
 4. Next, here in the `pp-01` directory, work with the starter HTML file to set up some content to
    show off your pairing and explain briefly why you chose the typefaces you did. The most basic
