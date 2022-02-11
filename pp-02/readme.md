@@ -15,20 +15,21 @@ you choose. Use the Preview tab at the bottom of the palette preview.
 
 1. A **monochromatic color palette** for a site introducing a new console gaming platform
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=11t0u0kuCxm8xR1j5BDDImwP3ca
+
+Your Rationale: I chose yellow as a main color because when I think of a console game, I think of an image of people gathering, playing games, and being happy. So I selected yellow, which is associated with energizing and happiness.
 
 2. An **adjacent color palette** for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=50-0u0krb++3x+OgG+qUE+ISAr1
+Your Rationale: Chicago is a very cold city, so the impression of spring is greater. So, I chose a color that catches people's attention with the theme of tulip color.
 
 3. A **triadic color palette** for styling the login page for an app for kids to learn the alphabet
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=33R0u0krb++3x+OgG+qUE+ISAr1
+Your Rationale: This is an app for kids so in order to catch children's attention, I chose high chroma rather than pastel color.
 
 4. A **custom color palette** for advertising a course on cybersecurity
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=a3T4U0kkHfVbDCGgzozoZ8Sw434
+Your Rationale: When thinking about cybersecurity, dark colors come to mind than brighter colors. So I chose lower value.
